@@ -7,7 +7,7 @@ const Intro = () => {
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
         The Technology Blog of the {" "}
         <a
-          href="https://nextjs.org/"
+          href="https://filmhub.com"
           className="underline hover:text-blue-600 duration-200 transition-colors"
         >
           Filmhub Engineering Team
