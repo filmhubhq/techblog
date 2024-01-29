@@ -24,25 +24,6 @@ For me, these gatherings are not only an opportunity to collaborate professional
 
 Join me on this visual journey as we navigate the intersections of technology, teamwork, and the tantalizing tastes of Chicago. Our team's commitment to innovation and collaboration knows no boundaries, and each meeting becomes a testament to the power of shared experiences in building a stronger, more connected team.
 
-
-<!-- ![Image](/assets/blog/chicago-gallery/chicago-2.jpg)
-
-![Image](/assets/blog/chicago-gallery/chicago-3.jpg)
-
-![Image](/assets/blog/chicago-gallery/chicago-4.jpg)
-
-![Image](/assets/blog/chicago-gallery/chicago-5.jpg)
-
-![Image](/assets/blog/chicago-gallery/chicago-6.jpg)
-
-![Image](/assets/blog/chicago-gallery/chicago-7.jpg)
-
-![Image](/assets/blog/chicago-gallery/chicago-8.jpg)
-
-![Image](/assets/blog/chicago-gallery/chicago-9.jpg)
-
-![Image](/assets/blog/chicago-gallery/chicago-10.jpg) -->
-
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
   <img src="/assets/blog/chicago-gallery/chicago-5.jpg" alt="Image 5" style="width: 100%; height: 50%;">
 </div>
