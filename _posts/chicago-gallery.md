@@ -23,3 +23,50 @@ One distinctive aspect of our trips is the blend of work and exploration. Embrac
 For me, these gatherings are not only an opportunity to collaborate professionally but also a chance to indulge in my passion for street photography. Chicago, with its stunning architecture and lively streets, provided the perfect canvas for my hobby. In this blog post, I'll share a glimpse of the city through my lens, capturing the essence of our time spent exploring and working in the Windy City.
 
 Join me on this visual journey as we navigate the intersections of technology, teamwork, and the tantalizing tastes of Chicago. Our team's commitment to innovation and collaboration knows no boundaries, and each meeting becomes a testament to the power of shared experiences in building a stronger, more connected team.
+
+
+<!-- ![Image](/assets/blog/chicago-gallery/chicago-2.jpg)
+
+![Image](/assets/blog/chicago-gallery/chicago-3.jpg)
+
+![Image](/assets/blog/chicago-gallery/chicago-4.jpg)
+
+![Image](/assets/blog/chicago-gallery/chicago-5.jpg)
+
+![Image](/assets/blog/chicago-gallery/chicago-6.jpg)
+
+![Image](/assets/blog/chicago-gallery/chicago-7.jpg)
+
+![Image](/assets/blog/chicago-gallery/chicago-8.jpg)
+
+![Image](/assets/blog/chicago-gallery/chicago-9.jpg)
+
+![Image](/assets/blog/chicago-gallery/chicago-10.jpg) -->
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+  <img src="/assets/blog/chicago-gallery/chicago-5.jpg" alt="Image 5" style="width: 100%; height: 50%;">
+</div>
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+  <img src="/assets/blog/chicago-gallery/chicago-3 Large.jpeg" alt="Image 3" style="width: 48%;">
+  <img src="/assets/blog/chicago-gallery/chicago-4 Large.jpeg" alt="Image 4" style="width: 48%;">
+</div>
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+  <img src="/assets/blog/chicago-gallery/chicago-2 Large.jpeg" alt="Image 2" style="width: 100%;">
+</div>
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+  <img src="/assets/blog/chicago-gallery/chicago-6 Large.jpeg" alt="Image 6" style="width: 48%;">
+  <img src="/assets/blog/chicago-gallery/chicago-9 Large.jpeg" alt="Image 9" style="width: 48%;">
+</div>
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+  <img src="/assets/blog/chicago-gallery/chicago-8 Large.jpeg" alt="Image 8" style="width: 48%;">
+  <img src="/assets/blog/chicago-gallery/chicago-7 Large.jpeg" alt="Image 7" style="width: 48%;">
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="/assets/blog/chicago-gallery/chicago-10.jpg" alt="Image 10" style="width: 100%;">
+</div>
+
