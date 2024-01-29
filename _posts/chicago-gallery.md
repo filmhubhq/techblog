@@ -48,6 +48,6 @@ Join me on this visual journey as we navigate the intersections of technology, t
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="/assets/blog/chicago-gallery/chicago-10.jpg" alt="Image 10" style="width: 100%;">
+  <img src="/assets/blog/chicago-gallery/chicago-10.JPG" alt="Image 10" style="width: 100%;">
 </div>
 
